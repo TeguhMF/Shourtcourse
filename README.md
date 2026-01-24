@@ -15,7 +15,7 @@ Welcome to the Software Engineering Shortcourse! This is your starter project th
    ```
 
 3. **Open your browser:**
-   Navigate to `http://localhost:3000`
+   Navigate `http://localhost:3000`
 
 That's it! You should see a welcome page with the course outline.
 
