@@ -1,4 +1,4 @@
-# Task Management System - Starter Project
+# Task Management System
 
 Welcome to the Software Engineering Shortcourse! This is your starter project that you'll build upon over the next 5 days.
 
